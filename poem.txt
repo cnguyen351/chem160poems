@@ -1,5 +1,4 @@
 The Voice
-By: Shel Silverstein
 
 There is a voice inside of you
 That whispers all day long.
@@ -9,3 +8,5 @@ No teacher, preacher, parent, friend
 Or wise man can decide
 What's right for you--just listen to
 The voice that speaks inside.
+
+	-Shel Silverstein
